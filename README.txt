@@ -2,6 +2,9 @@ Saurabh Chugh
 saurabh089@gwu.edu
 Intro to NLP Assignment# 1
 
+Link to the uncorpora_plain_20090831.tmx:
+http://www.uncorpora.org/files/uncorpora_plain_20090831.zip
+
 
 Question 1:
 Regular expressions included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
