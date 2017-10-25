@@ -28,20 +28,3 @@ How to run: python Q5_Token_Frequency.py ===>>> It’ll aske to “Enter a list of n
 Question 6:
 Program file: Q6_Tokenized_Freq.py
 How to run: python Q6_Tokenized_Freq.py the program asks for a string (Enter the entire paragraph in the question)  ===>>> this gives the desired output
-
-Question 1:
-Unix command is included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
-
-Question 1:
-Unix command is included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
-
-Question 1:
-Unix command is included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
-
-Question 1:
-Unix command is included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
-
-Question 1:
-Unix command is included in the ‘Quiz1 - NLP - Solutions - G24431890’ document itself.
-
-
